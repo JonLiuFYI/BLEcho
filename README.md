@@ -1,6 +1,8 @@
 # BLEcho
 Bluetooth Low Energy text messages between a PC and a microcontroller
 
+![Demo screenshot](screenshot.png)
+
 This repository has two main components:
 * a server program that runs on an ESP32
     * source is in the `blecho_server` directory
